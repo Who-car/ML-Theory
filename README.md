@@ -9,7 +9,7 @@ I'm a beginner ML learner. Here I will put my notes on important notes on key to
 
 Here's my aim for the next 6 months
 
-### Feb, 2025
+### >>> Feb, 2025
 
 **Maths**:
 - Linear Algebra
